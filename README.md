@@ -1,1 +1,1 @@
-# LAMP-app
+# LAMP app
