@@ -1,1 +1,1 @@
-# LAMP-app, checking build stage on jenkins
+# LAMP-app
